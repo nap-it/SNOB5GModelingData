@@ -1,4 +1,4 @@
-# SNOB5G Gilbert Elliot Modeling Data
+# SNOB5G: Gilbert Elliot Modeling Data
 
 This repository contains data acquired in a real mmWave Wigig-compliant network which supported our experimental work entitled **"Millimeter-Wave Testbed and Modeling in NeXt Generation URLLC Communications"**. The network is composed of three Metnet 60G nodes deployed in an outdoor environment following the architecture shown in the following figure.
 
