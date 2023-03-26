@@ -4,7 +4,7 @@ This repository contains data acquired in a real mmWave Wigig-compliant network 
 
 ![alt text](https://github.com/nap-it/SNOB5GData/blob/59aebeda92a42461ac22f83cb86fc03fdc109103/topo.png)
 
-The collected data includes the erasure information and the RTT of each packet for the blockage scenario, for the transport layer using the UDP protocol with different modulation and coding schemes (MCS) modes: (i) constant mode (3 ,4 , 5, 6), and (auto) for dynamic adjustment according to the channel variations. 
+The collected data includes the erasure information and the RTT of each packet for the blockage scenario, at the transport layer using the UDP protocol with different modulation and coding schemes (MCS) modes: (i) constant mode (3 ,4 , 5, 6), and (auto) for dynamic adjustment according to the channel variations. 
 
 ## Authors
 - **Eurico Dias** - Instituto de Telecomunicações (IT) and Universidade de Aveiro (UA)
