@@ -25,4 +25,4 @@ Fund (FEDER), through the Regional Operational Programme of Centre (CENTRO 2020)
 ## Contact
 Any questions are welcome.
 
-Tânia Ferreira dmgraposo@av.it.pt
+Duarte Raposo dmgraposo@av.it.pt
